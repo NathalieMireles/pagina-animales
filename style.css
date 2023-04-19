@@ -1,0 +1,45 @@
+body{
+   background-image: url(data:image/jpeg;base64,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);
+   background-size: cover; /* ajustar el tamaño de la imagen para que cubra todo el contenedor */
+   background-repeat: no-repeat; /* evitar que la imagen se repita */
+   background-position: center; /* centrar la imagen dentro del contenedor */
+   font-family: Georgia, 'Times New Roman', Times, serif; /* cambia el tipo de letra*/
+
+}
+
+h1 {
+   
+
+   font-weight: bold; /* hace que el texto aparezca en negritas */
+   font-style: italic; /* cambia el estilo del texto a cursiva */
+   font-size: 80px; /* ajusta el tamaño del texto a 24 píxeles */
+   color: blueviolet;
+   
+ }
+
+
+ h3 {
+   font-weight: bold; /* hace que el texto aparezca en negritas */
+   font-style: italic; /* cambia el estilo del texto a cursiva */
+   font-size: 30px; /* ajusta el tamaño del texto a 24 píxeles */
+   color: blueviolet;
+ }
+
+
+
+ img {
+   border-width: 10px;
+   border-style: 1px solid rgb(91, 176, 245); /* establece un borde sólido de 1 píxel en color gris claro (#ccc) */
+   width: 300px; /* establece el ancho de la imagen en 200 píxeles */
+   height: 300px; /* establece la altura de la imagen en 200 píxeles */
+   margin: 30px; /* establece un margen de 10 píxeles alrededor de la imagen */
+   padding: 10px; /* establece un padding de 10 píxeles dentro del borde */
+ }
+ 
+
+ 
+
+
+ 
+ 
+
